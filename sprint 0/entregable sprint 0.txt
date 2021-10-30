@@ -1,0 +1,62 @@
+
+procesos scrum:
+
+1. visión del proyecto
+creación de un sistema de gestión para clubes deportivos, que sirva de apoyo a los entrenadores en el propósito de administrar el club, publicar información de eventos y gestionar el seguimiento a los deportistas.
+
+2. identificación de scrum master y socios
+scrum master: juan ignacio
+socios: tutor, marco
+
+3. formación de equipo scrum
+scrum master: juan ignacio
+product owner: miguel
+team: juan ignacio, miguel, luis
+
+4. desarrollo de épicas
+  se desea:
+  a. divulgar info del club para promocionarse
+  b. publicar info de eventos (entrenamientos)
+  c. gestionar el seguimiento a los deportistas
+  d. habilitar la inscripción de deportistas
+  e. gestionar las fichas de seguimiento
+  f. habilitar el control de pagos
+  h. habilitar notificaciones a los miembros del club.
+
+5. creación de la lista priorizada de pendientes del producto
+  a.Divulgar información general de su club, para promocionarse (días y horarios de entrenamiento, lugar costos de inscripción, reseña histórica, reseña de entrenadores, imagen del club, información preselecciones municipales)
+  b.El entrenador publicara información de días y horarios de entrenamiento semanal
+  c.El acudiente deberá inscribir a su acudido al diligenciar la ficha inscripción.
+  d.El entrenador creara las fichas de seguimiento deportivo a partir de la ficha de inscripción y las actualizará periódicamente para registrar la evolución del deportista.
+  e.Los entrenadores podrán consultar las fichas de inscripción y seguimiento de los deportistas
+  f.El acudiente y deportista podrán consultar la ficha de seguimiento deportivo con su evolución e informe de comportamiento de su hijo, la relación de pagos de mensualidades, e información de eventos especiales (torneos o competencias).
+  g.El administrador del Club podrá gestionar a nivel financiero y administrativo a través de los informes de pagos de mensualidad
+  h.Que los deportistas y acudientes reciban algún tipo de alerta en caso de cambios y/o cancelaciones de entrenamientos vía E-mail o mensaje de texto
+
+6. realizar el plan de seguimiento
+
+7. elaborar historias de usuario
+
+8. aprobar, estimar y asignar historias de usuarios
+
+9. elaboración de tareas
+
+10. estimar tareas
+
+11. Elaboración de la lista de pendientes del sprint
+
+12. crear entregables
+
+13. llevar a cabo el standup diario
+
+
+
+Entregables sprint:
+ 
+. product backlog priorizado
+
+. repositorio (github)
+
+. gestión de configuración
+
+. historias de usuario para sprint 1
