@@ -55,7 +55,8 @@ Entregables sprint:
  
 . product backlog priorizado
 
-. repositorio (github)
+. repositorio (github):
+  https://github.com/sigecd-org/sigecd-app
 
 . gestión de configuración
 
