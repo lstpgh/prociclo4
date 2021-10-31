@@ -51,7 +51,7 @@ team: juan ignacio, miguel, luis
 
 
 
-Entregables sprint:
+entregables sprint:
  
 . product backlog priorizado
 
