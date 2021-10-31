@@ -53,7 +53,8 @@ team: juan ignacio, miguel, luis
 
 entregables sprint:
  
-. product backlog priorizado
+. product backlog priorizado:
+  https://github.com/orgs/sigecd-org/projects/1
 
 . repositorio (github):
   https://github.com/sigecd-org/sigecd-app
