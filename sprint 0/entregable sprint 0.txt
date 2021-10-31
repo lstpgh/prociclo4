@@ -58,6 +58,7 @@ Entregables sprint:
 . repositorio (github):
   https://github.com/sigecd-org/sigecd-app
 
-. gestión de configuración
+. gestión de configuración:
+  stack mern (mongodb, express, react, nodejs)
 
 . historias de usuario para sprint 1
